@@ -1,0 +1,16 @@
+{
+  "name": "Payday Waterfall Pro",
+  "short_name": "Payday Pro",
+  "description": "Plan every paycheck, with tax, retirement and year-ahead tools. Works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E3E8E1",
+  "theme_color": "#E3E8E1",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
