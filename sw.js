@@ -1,6 +1,6 @@
 // Payday Waterfall Pro offline cache.
 // To publish an update, upload the new files and change the version below.
-const CACHE = "payday-pro-v1-4";
+const CACHE = "payday-pro-v1-5";
 const FILES = ["./", "./index.html", "./manifest.json", "./icon-192.png", "./icon-512.png", "./icon-maskable-512.png"];
 
 self.addEventListener("install", (event) => {
